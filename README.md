@@ -49,3 +49,8 @@ You can use this to easily setup a Virtual Box VM:
 6. replace `/etc/nixos/configuration.nix` with the file in this directory
 7. run `nixos-rebuild switch`
 8. run `exit` to get back to the demo user shell
+
+# What I did
+
+1. `docker pull jannmueller/plutus-development:iwhhac55vfnwgqff1v29scc6g2gdw2dw`
+2. Added devcontainer.json
