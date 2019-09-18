@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/vscode-remote/devcontainer.json or the definition README at
 // https://github.com/microsoft/vscode-dev-containers/tree/master/containers/docker-existing-dockerfile
 {
-	"name": "Plutus development docker image",
+	"name": "Plutus development docker",
 
 	// Sets the run context to one level up instead of the .devcontainer folder.
 	"context": "..",

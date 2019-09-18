@@ -1,1 +1,1 @@
-FROM jannmueller/plutus-development:8ymk1j433a633fl32qr2h2jy7gblza4h
+FROM jannmueller/plutus-development:pl7xvg5qkcq11190ncw3xvl9zvnxka9l
